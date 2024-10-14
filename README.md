@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nuno Oliveira Fernandes
+# 👋 Hi, I'm Nuno Fernandes
 
 I’m a passionate **Software Engineering Master’s student** at the **University of Porto**, always eager to explore and work with new technologies.
 
