@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Nuno Fernandes
 
+
 I’m a passionate **Software Engineering Master’s student** at the **University of Porto**, always eager to explore and work with new technologies.
 
 ### 👨‍💻 What I Do
@@ -19,3 +20,4 @@ I specialize in **Full-stack Development** and have experience across a range of
 - Email: nuno.o.fernandes@outlook.pt
 
 ---
+![](https://komarev.com/ghpvc/?username=nof03&style=for-the-badge)
